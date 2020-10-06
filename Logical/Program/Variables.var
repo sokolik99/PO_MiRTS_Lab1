@@ -1,0 +1,9 @@
+VAR
+	counter1 : REAL;
+	fb_regulator : FB_Regulator;
+	speed : REAL;
+	fb_motor : FB_Motor;
+	enable : BOOL := TRUE;
+	fb_motor2 : FB_Motor;
+	counter : REAL;
+END_VAR
